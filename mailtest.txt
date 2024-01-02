@@ -1,0 +1,35 @@
+[
+	{
+		"log_type": 8,
+		"sender_name": "1313",
+		"sender": "13123",
+		"receiver": "131",
+		"cc": "123",
+		"bcc": "1",
+		"subject": "阿斯弗",
+		"domain": null,
+		"authinfo": null,
+		"returnpath": "1313",
+		"x-originating-ip": "12313",
+		"url": "23131",
+		"received": "1231",
+		"attachment": [
+			{
+				"name": "131231",
+				"size": 120,
+				"md5": "131231"
+			}
+		],
+		"time": "2024-01-02 09:51:00",
+		"sip": "12312",
+		"smac": "123123",
+		"sport": 300,
+		"dip": "12313",
+		"dmac": "1231231",
+		"dport": 30,
+		"transport_protocol": "12313123",
+		"app_protocol": "fasfasd",
+		"app_name": "adfsads",
+		"sess_id": "13131231"
+	}
+]
